@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Desenhista
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Desenhista\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=void\ desenharFigura()
+comment2.params=
+comment2.target=void\ criaRosto()
+comment3.params=
+comment3.target=void\ criaOlhoDireito()
+comment4.params=
+comment4.target=void\ criaOlhoEsquerdo()
+comment5.params=
+comment5.target=void\ criaNariz()
+comment6.params=
+comment6.target=void\ criaBoca()
+numComments=7
