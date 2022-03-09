@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=InteiroPositivo
+comment1.params=x
+comment1.target=InteiroPositivo(int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ InteiroPositivo\r\n
+comment10.params=
+comment10.target=double\ getValorP()
+comment2.params=x
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=int\ getValor()
+comment4.params=inteiroPositivo
+comment4.target=int\ getValorMultiplicado(InteiroPositivo)
+comment5.params=
+comment5.target=long\ getFatorial()
+comment6.params=
+comment6.target=java.lang.String\ getDivisores()
+comment7.params=
+comment7.target=int[]\ fibonacci()
+comment8.params=
+comment8.target=double\ getValorH()
+comment9.params=
+comment9.target=double\ getValorI()
+numComments=11
